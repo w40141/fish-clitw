@@ -1,5 +1,5 @@
 # Fish completions for clitw
-Cli tweet app
+[Clitw](https://github.com/w40141/clitw) is cli tweet app
 
 ### How to Use
 
